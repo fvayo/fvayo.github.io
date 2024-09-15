@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fvayo.github.io/DZg/sitemap.DZg.gz
